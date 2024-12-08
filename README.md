@@ -48,13 +48,13 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 <br>
 
 ### 2-Norm of a Matrix
+<br>![alt text](image-6.png)
 <br>
-<br>![alt text](image-1.png)
 <br>
 
 ### Infinity Norm of a Matrix
+<br>![alt text](image-7.png)
 <br>
-<br>![alt text](image-2.png)
 <br>
 
 ## Result
